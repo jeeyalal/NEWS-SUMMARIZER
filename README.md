@@ -29,3 +29,19 @@ This project simplifies the process of extracting and analyzing news articles, m
 
 
 ![image](https://github.com/user-attachments/assets/d3968e6e-9fd1-4f7d-ab9d-5dbaa221af80)
+
+
+
+
+
+
+
+
+Description:
+Title Section: A label "Title" followed by a text box to display the article's title.
+Author Section: A label "Author" followed by a text box to display the authors of the article.
+Publication Date Section: A label "Publishing Date" followed by a text box to display the publication date.
+Summary Section: A label "Summary" followed by a large text box to display the summarized content of the article.
+Sentiment Section: A label "Sentiment" followed by a text box to display the sentiment analysis result.
+URL Section: A label "URL" followed by a text box for the user to input the article URL.
+Summarize Button: A button labeled "Summarize" to trigger the summarization process.
